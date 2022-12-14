@@ -1,0 +1,2 @@
+Number of stack mentions in 28 job posts: {'Python': 18, 'SQL': 25, 'AWS': 4, 'Git': 1, 'R': 10}
+Number of stack mentions in 18 job posts: {'Python': 11, 'SQL': 15, 'AWS': 2, 'Git': 1, 'R': 6}

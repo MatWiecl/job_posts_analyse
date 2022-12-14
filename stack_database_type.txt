@@ -1,0 +1,14 @@
+Number of stack mentions in 0 job posts: {'Python': 0, 'SQL': 0, 'AWS': 0, 'Git': 0, 'R': 0}
+Number of stack mentions in 0 job posts: {'Python': 0, 'SQL': 0, 'AWS': 0, 'Git': 0, 'R': 0}
+Number of stack mentions in 0 job posts: {'Python': 0, 'SQL': 0, 'AWS': 0, 'Git': 0, 'R': 0}
+Number of stack mentions in 0 job posts: {'Python': 0, 'SQL': 0, 'AWS': 0, 'Git': 0, 'R': 0}
+Number of stack mentions in 0 job posts: {'Python': 0, 'SQL': 0, 'AWS': 0, 'Git': 0, 'R': 0}
+Number of stack mentions in 0 job posts: {'Python': 0, 'SQL': 0, 'AWS': 0, 'Git': 0, 'R': 0}
+Number of stack mentions in 0 job posts: {'Python': 0, 'SQL': 0, 'AWS': 0, 'Git': 0, 'R': 0}
+Number of stack mentions in 0 job posts: {'Python': 0, 'SQL': 0, 'AWS': 0, 'Git': 0, 'R': 0}
+Number of stack mentions in 12 job posts: {'Python': 8, 'SQL': 10, 'AWS': 0, 'Git': 0, 'R': 4}
+Number of stack mentions in 0 job posts: {'Python': 0, 'SQL': 0, 'AWS': 0, 'Git': 0, 'R': 0}
+Number of stack mentions in 13 job posts: {'Python': 9, 'SQL': 11, 'AWS': 1, 'Git': 1, 'R': 3}
+Number of stack mentions in 12 job posts: {'Python': 8, 'SQL': 11, 'AWS': 1, 'Git': 1, 'R': 4}
+Number of stack mentions in 39 job posts: {'Python': 29, 'SQL': 36, 'AWS': 2, 'Git': 0, 'R': 18}
+Number of stack mentions in 97 job posts: {'Python': 59, 'SQL': 84, 'AWS': 8, 'Git': 3, 'R': 26}
